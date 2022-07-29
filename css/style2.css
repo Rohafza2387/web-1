@@ -516,3 +516,19 @@ height:100vh;
     margin-bottom: 1%;
     font-weight: bold;
   }
+#contact{
+    height: 90vh;
+}
+
+#contact img{
+    padding-right: 50px;
+    padding-top: 50px;
+    height: 82%;
+    width: 60%;
+}
+
+#contact .box{
+    margin-right: 100px;
+    padding-top: 150px;
+  
+}
