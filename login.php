@@ -36,7 +36,7 @@ if (isset($_POST['submit'])){
 <body>
     
     <div class="for">
-        <img src="http:\\localhost\Foodpicky\admin\Res_img\5ad74b9dbc38a.jpg" class="im">
+        <img src="http:\\localhost\web\images\5ad74b9dbc38a.jpg" class="im">
    
         <form action="" method="post">
             
