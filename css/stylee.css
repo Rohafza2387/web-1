@@ -4,13 +4,6 @@
     font-family: Arial, Helvetica, sans-serif;
   }
 
-
-
-
-
-
-
-
 .login{
     width:100vw;
     height:100vh;
@@ -23,7 +16,7 @@
   width:100vw;
   height:100vh;
     background: cover;
-    background-image: url(http:\\localhost\Foodpicky\admin\Res_img\5ad74b9dbc38a.jpg); 
+    background-image: url(http:\\localhost\web\images\5ad74b9dbc38a.jpg); 
 }
 
 
@@ -79,21 +72,6 @@
     color: rgb(236, 194, 8);
     text-decoration: none;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
   
   .navbar{
     position: fixed;
