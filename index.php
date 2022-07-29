@@ -6,7 +6,7 @@
     <section id="home">
         <div>
             <h3>The Best Food <br>quality</h3>
-            <img src="http://localhost/Restaurant/Imag/54674.jpeg" id=imeg>
+            <img src="http://localhost/web/images/54674.jpegg" id=imeg>
         </div>
 
                
