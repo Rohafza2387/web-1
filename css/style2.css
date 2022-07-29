@@ -1,4 +1,4 @@
-/* CSS for All */
+
 * {
     margin: 0 0;
     padding: 0 0;
@@ -73,28 +73,28 @@
   .float-container {
     position: relative;
   }
-  .float-text {
+ .float-text {
     position: absolute;
     bottom: 50px;
     left: 40%;
   }
-  fieldset {
+ fieldset {
     border: 1px solid rgb(0, 0, 0);
     margin: 5%;
     padding: 3%;
     border-radius: 5px;
   }
   
-  .error {
+ .error {
     padding: 2%;
     color: red;
   }
-  .success {
+ .success {
     padding: 2%;
     color: green;
   }
   
-  /* CSSS for navbar section */
+
   
   .menu {
     line-height: 60px;
@@ -108,8 +108,7 @@
     padding: 1%;
     font-weight: bold;
   }
-  
-  /* CSS for Food SEarch Section */
+ 
   
   .food-search {
     background-image: url(../images/fosyyyy.jpg);
@@ -148,10 +147,6 @@
     float: left;
     margin: 2%;
   }
-  
-  /* CSS for Food Menu */
-  
-  
   
   
   .navbar{
@@ -240,11 +235,6 @@
     color: rgb(236, 194, 8);
   }
   
-  
-  
-  
-  
-  
   #order .row{
     background-color:white; 
     display: flex;
@@ -301,16 +291,6 @@
   }
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
 .login{
   width:100vw;
   height:100vh;
@@ -323,7 +303,7 @@
 width:100vw;
 height:100vh;
   background: cover;
-  background-image: url(http:\\localhost\Foodpicky\admin\Res_img\5ad74b9dbc38a.jpg); 
+  background-image: url(http:\\localhost\web\images\5ad74b9dbc38a.jpg); 
 }
 
 
@@ -395,7 +375,7 @@ height:100vh;
   width:100vw;
   height:100vh;
   background: cover;
-  background-image: url(http:\\localhost\Foodpicky\admin\Res_img\5ad74b9dbc38a.jpg);
+  background-image: url(http:\\localhost\web\images\5ad74b9dbc38a.jpg);
   
 }
 
@@ -469,33 +449,6 @@ height:100vh;
 }
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   .food-menu {
     display: flex;
     align-items: center;
@@ -547,11 +500,6 @@ height:100vh;
     
   }
   
-
-  
-  
-  
-  /* for Order Section */
   .order {
     width: 50%;
     margin: 0 auto;
