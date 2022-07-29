@@ -7,8 +7,8 @@
 
 if(isset($_SESSION['add']))
 {
-    echo $_SESSION['add']; //Displaying Session Message
-    unset($_SESSION['add']); //REmoving Session Message
+    echo $_SESSION['add']; 
+    unset($_SESSION['add']); 
 }
 ?>
 
@@ -39,8 +39,7 @@ if(isset($_SESSION['add']))
 
 <?php
 
-
-               if(isset($_POST['submit']))
+  if(isset($_POST['submit']))
                {
 
                    $customer_name = $_POST['customer_name'];
