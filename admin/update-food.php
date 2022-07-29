@@ -22,7 +22,7 @@
 
 
 <div class="main-content">
-    <div class="wrapper">
+    <div class="wrapperr">
         <h1>Update Food</h1>
         <br><br>
 
