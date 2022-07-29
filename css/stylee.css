@@ -116,10 +116,22 @@
   .wrapper {
     padding: 15px;
     border: 1px solid;
-    width: 28%;
+    width: 35%;
     margin-top: 5%;
     margin-left: 35%;
   }
+input{
+  border-radius: 52px;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 15px;
+}
+select{
+  border-radius: 52px;
+  border: 1px solid black;
+  padding: 10px;
+  font-size: 15px;
+}
 
 
 .form{
