@@ -25,7 +25,7 @@
                         <a href="<?php echo SITEURL; ?>logout.php">logout</a>
                     </li>
                     <li>
-                        <a href="#">Contact</a>
+                        <a href="<?php echo SITEURL; ?>contact.php"">Contact</a>
                     </li>
                 </ul>
             </div>
