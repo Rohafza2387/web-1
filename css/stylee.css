@@ -113,7 +113,7 @@
     color:black;
   }
   
-  .wrapper {
+  .wrapperr {
     padding: 15px;
     border: 1px solid;
     width: 35%;
@@ -131,6 +131,11 @@ select{
   border: 1px solid black;
   padding: 10px;
   font-size: 15px;
+}
+.wrapper {
+  padding: 1%;
+  width: 80%;
+  margin: 80 auto;
 }
 
 
