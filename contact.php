@@ -1,6 +1,4 @@
-
-    <?php include('partials-front/menu.php'); ?>
-
+<?php include('partials-front/menu.php'); ?>
 
 <section id="contact">
         <img src="http:\\localhost\web\images\depositphoto.jpg">
