@@ -7,7 +7,6 @@
 </head>
 
 <body>
-    <!-- Navbar Section Starts Here -->
     <section class="navbar">
         <div class="container">
 
@@ -34,4 +33,3 @@
             <div class="clearfix"></div>
         </div>
     </section>
-    <!-- Navbar Section Ends Here -->
