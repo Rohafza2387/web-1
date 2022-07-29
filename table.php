@@ -16,7 +16,7 @@ if(isset($_SESSION['add']))
 <section id="order">
         <div class="row">
             <form action="" method="POST" enctype="multipart/form-data">
-                <p>Order now</p>
+                <p>Reserve now</p>
                 <input type="text" placeholder="your name" class="box" name="customer_name"><br>
                 <br>
                 <input type="email" placeholder="your email" class="box" name="customer_email"><br>
@@ -27,10 +27,10 @@ if(isset($_SESSION['add']))
                 <br>
                 <input type="number" placeholder="number of people" class="box" name="num_people"><br>
                 <br>
-                <input type="submit" name="submit" value="ordernow" class="btn">
+                <input type="submit" name="submit" value="reserve now" class="btn">
             </form>
             <div class="image">
-                <img src="http://localhost/onlinefood-order/images/p-6.jpg">
+                <img src="http://localhost/web/images/p-6.jpg">
             </div>
         </div>   
     </section>
