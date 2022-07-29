@@ -41,7 +41,7 @@
                             </div>
 
                             <div class="food-menu-desc">
-                                <h4><?php echo $title; ?></h4>
+                                <h3><?php echo $title; ?></h3>
                                 <p class="food-price">afg<?php echo $price; ?></p>
                                  
                                 <br>
