@@ -1,7 +1,7 @@
 <?php include('partials/menu.php'); ?>
 
 <div class="main-content">
-    <div class="wrapper">
+    <div class="wrapperr">
         <h1>Update Admin</h1>
 
         <br><br>
