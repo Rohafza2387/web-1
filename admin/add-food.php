@@ -1,7 +1,7 @@
 <?php include('partials/menu.php'); ?>
 
 <div class="main-content">
-    <div class="wrapper">
+    <div class="wrapperr">
 
         <?php 
             if(isset($_SESSION['upload']))
