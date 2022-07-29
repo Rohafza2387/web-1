@@ -114,17 +114,13 @@
   }
   
   .wrapper {
-    padding: 1%;
-    width: 80%;
-    margin: 80 auto;
+    padding: 15px;
+    border: 1px solid;
+    width: 28%;
+    margin-top: 5%;
+    margin-left: 35%;
   }
-  .wrapperr {
-    padding: 1%;
-    width: 80%;
-    padding-left: 555px;
 
-    margin: 81 auto;
-  }
 
 .form{
     width: 267px;
