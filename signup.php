@@ -72,7 +72,7 @@ if (isset($_POST['submit'])){
             <textarea class="ord" name="address" placeholder="enter your address" rows="5" ></textarea>
 
             <input type="submit" name="submit" value="signup" class="form_btm">
-            <p>already have an account? <a href="login_form.php">login now</a></p>
+            <p>already have an account? <a href="login.php">login now</a></p>
         </form>
 
     </div>
