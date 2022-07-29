@@ -63,8 +63,6 @@ if (isset($_POST['submit'])){
                 };
             };
             ?>
-
-           
             <input type="text" name="first_name" required placeholder="enter your first name">
             <input type="text" name="last_name" required placeholder="enter your last name">
             <input type="email" name="email" required placeholder="enter your email">
